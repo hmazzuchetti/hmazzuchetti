@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Henrique Luis Mazzuchetti
 
-- 🔭 I’m currently working on a e-commerce website, using React, HTML and CSS. I'm creating the product details page, the next step is to create the cart and the checkout, so the customer can buy a product succesfully. 
+- 🔭 I’m currently working on Ubivis LTDA as a Front-End Developer, developing the user interface with Angular and TypeScript. 
 - 🌱 I’m currently learning full stack with the Altacademy Bootcamp.
-- 👯 I’m looking to collaborate on front end projects.
+- 👯 I’m looking to collaborate on Front-End projects.
 - 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
 - 💬 Ask me about my personal life, lets share stories!
 - 📫 How to reach me: henrique.mazzu@gmail.com or via Telegram +554199273106
