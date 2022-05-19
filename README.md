@@ -7,6 +7,8 @@
 - 💬 Ask me about my personal life, lets share stories!
 - 📫 How to reach me: henrique.mazzu@gmail.com or via Telegram +554199273106
 - ⚡ Fun fact: Despite my surname beeing Italian, I'm actually Brazilian! 
+- 
+----> My Portfolio: http://hmazzuchetti.com/ <----
 
 ##
 
