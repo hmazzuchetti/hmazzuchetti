@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Henrique Luis Mazzuchetti
 
-- 🔭 I’m currently working on Ubivis LTDA as a Front-End Developer, developing the user interface with Angular and TypeScript. 
+- 🔭 I’m currently working on Smatgreen as a Front-End Developer, leading the creation of their new Angular Front-end System from scratch. 
 - 🌱 I’m currently learning full stack with the Altacademy Bootcamp.
 - 👯 I’m looking to collaborate on Front-End projects.
 - 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
@@ -12,7 +12,7 @@
 
 ##
 
-👀❤️I'M CURRENTLY LOOKING FOR A REACT FRONT END JOB❤️👀
+👀❤️I'M CURRENTLY HARD STUDYING ANGULAR TO TRY A POSITION AT GOOGLE AT THE NEXT YEARS. IF YOU WANT YOU CAN REFER ME❤️👀
 
 ##
 
