@@ -5,14 +5,14 @@
 - 👯 I’m looking to collaborate on Front-End projects.
 - 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
 - 💬 Ask me about my personal life, lets share stories!
-- 📫 How to reach me: henrique.mazzu@gmail.com or via Telegram +554199273106
+- 📫 How to reach me: henrique.mazzu@gmail.com
 - ⚡ Fun fact: Despite my surname beeing Italian, I'm actually Brazilian! 
 - 
-----> My Portfolio: http://hmazzuchetti.com/ <----
+----> My Portfolio: https://hmazzuchetti.com/ <----
 
 ##
 
-👀❤️I'M CURRENTLY HARD STUDYING ANGULAR TO TRY A POSITION AT GOOGLE AT THE NEXT YEARS. IF YOU WANT YOU CAN REFER ME❤️👀
+👀❤️I'M CURRENTLY HARD STUDYING FULL STACK TECHNOLOGIES SUCH AS REACT, NODE AND MONGODB, IF YOU WANT YOU CAN REFEER ME TO A POSITION❤️👀
 
 ##
 
