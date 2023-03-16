@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Henrique Luis Mazzuchetti
 
-- 🔭 I’m currently working on Smartgreen as a Front-End Developer, leading the creation of their new Angular Front-end System from scratch. 
+- 🔭 I’m currently working on Smartgreen as a Front-End Developer, leading the development of their new Angular Front-end System from scratch. 
 - 🌱 I’m currently learning full stack with the Altacademy Bootcamp.
 - 👯 I’m looking to collaborate on Front-End projects.
 - 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
