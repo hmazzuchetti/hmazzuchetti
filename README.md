@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Henrique Luis Mazzuchetti
 
-- 🔭 I’m currently working as a Backend developer, with technologies such as NodeJS, MongoDB, C# .NET and AWS servers. 
+- 🔭 I’m currently working as a Software Engineer at HP, acting as a project leader. 
 - 🌱 I’m currently learning full stack with the Altacademy Bootcamp.
 - 👯 I’m looking to collaborate on Front-End projects.
 - 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
