@@ -8,7 +8,7 @@
 - 📫 How to reach me: henrique.mazzu@gmail.com
 - ⚡ Fun fact: Despite my surname beeing Italian, I'm actually Brazilian! 
 - 
-----> My Portfolio: https://hmazzuchetti.com/ <----
+----> My Portfolio: https://hmazzuchetti.com.br/ <----
 
 ##
 
