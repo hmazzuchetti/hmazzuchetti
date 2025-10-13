@@ -1,18 +1,15 @@
 ### Hi there 👋 My name is Henrique Luis Mazzuchetti
 
-- 🔭 I’m currently working as a Software Engineer at HP, acting as a project leader. 
-- 🌱 I’m currently learning full stack with the Altacademy Bootcamp.
-- 👯 I’m looking to collaborate on Front-End projects.
-- 🤔 I’m looking for help with react tips and tricks, since it's such a powerful tool, there is always much to learn!
+- 🔭 I’m currently working as a Fullstack Engineer and Blockchain developer at Meta IT with Frequency as our customer, building an L2 APP.
 - 💬 Ask me about my personal life, lets share stories!
 - 📫 How to reach me: henrique.mazzu@gmail.com
 - ⚡ Fun fact: Despite my surname beeing Italian, I'm actually Brazilian! 
 - 
-----> My Portfolio: https://hmazzuchetti.com.br/ <----
+----> My Portfolio: https://hmazzuchetti.com.br/ <---- (Under construction)
 
 ##
 
-👀❤️I'M CURRENTLY HARD STUDYING FULL STACK TECHNOLOGIES SUCH AS REACT, NODE AND MONGODB, IF YOU WANT YOU CAN REFEER ME TO A POSITION❤️👀
+👀❤️I'M CURRENTLY HARD STUDYING BLOCKCHAIN❤️👀
 
 ##
 
